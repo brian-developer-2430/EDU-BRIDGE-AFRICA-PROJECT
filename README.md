@@ -56,7 +56,7 @@ EduBridge Africa is an innovative educational platform designed to bridge educat
    - Configure webhooks for payment confirmation
 
 6. **Deploy the Application**
-   
+   https://brian-developer-2430.github.io/EDU-BRIDGE-AFRICA-PROJECT/
 
 ## File Structure
 ```
