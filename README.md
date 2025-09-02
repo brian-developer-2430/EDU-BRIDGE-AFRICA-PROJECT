@@ -57,6 +57,8 @@ EduBridge Africa is an innovative educational platform designed to bridge educat
 
 6. **Deploy the Application**
    https://brian-developer-2430.github.io/EDU-BRIDGE-AFRICA-PROJECT/
+7.##CANVA PRESENTATION LINK
+https://www.canva.com/design/DAGxxzHAWM4/b6oeJyiIENrzJLoPgWgKyg/edit?utm_content=DAGxxzHAWM4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## File Structure
 ```
